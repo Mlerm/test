@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="expand" transform="translate(24 24) rotate(180)">
+    <rect id="Rectangle_352" data-name="Rectangle 352" width="24" height="24" fill="none"/>
+    <path id="chevron-down" d="M1.736,4.736a.8.8,0,0,1,1.14,0l9.089,9.091,9.089-9.091a.806.806,0,0,1,1.14,1.14l-9.659,9.659a.8.8,0,0,1-1.14,0L1.736,5.875a.8.8,0,0,1,0-1.14Z" transform="translate(0.036 1.865)" fill="#fff" fill-rule="evenodd"/>
+  </g>
+</svg>

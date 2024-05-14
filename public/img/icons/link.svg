@@ -1,0 +1,7 @@
+<svg id="open_in_new" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <rect id="長方形_73" data-name="長方形 73" width="16" height="16" fill="none"/>
+  <g id="box-arrow-up-right">
+    <path id="パス_10" data-name="パス 10" d="M8.636,3.5a.5.5,0,0,0-.5-.5H1.5A1.5,1.5,0,0,0,0,4.5v10A1.5,1.5,0,0,0,1.5,16h10A1.5,1.5,0,0,0,13,14.5V7.864a.5.5,0,0,0-1,0V14.5a.5.5,0,0,1-.5.5H1.5a.5.5,0,0,1-.5-.5V4.5A.5.5,0,0,1,1.5,4H8.136A.5.5,0,0,0,8.636,3.5Z" fill="#c45800" fill-rule="evenodd"/>
+    <path id="パス_11" data-name="パス 11" d="M16,.5a.5.5,0,0,0-.5-.5h-5a.5.5,0,0,0,0,1h3.793L6.146,9.146a.5.5,0,0,0,.708.708L15,1.707V5.5a.5.5,0,0,0,1,0Z" fill="#c45800" fill-rule="evenodd"/>
+  </g>
+</svg>
